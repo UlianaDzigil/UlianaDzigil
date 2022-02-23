@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @UlianaDzigil
 - 👩‍💻 I’m interested in software development, especially in Java.
 - 🌱 I’m currently studying at the Kyiv Polytechnic Institute, Ukraine.
-- 🤝 I would be glad to collaborate on the project.
 - 🌎 I would be pleased to see you on my LinkedIn 
  https://www.linkedin.com/in/ulianadjigil/
 
